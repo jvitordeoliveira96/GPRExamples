@@ -1,0 +1,16 @@
+hyperparameters (initial guess)
+Mean: 
+tensor([[[0.6394]]], grad_fn=<SoftplusBackward>)
+Variances (lengthscales): 
+tensor([[[0.3151]]], grad_fn=<SoftplusBackward>)
+Weights: 
+tensor([0.7310], grad_fn=<SoftplusBackward>)
+
+------------------------------------------------------
+hyperparameters (after tuning)
+Mean: 
+tensor([[[0.0718]]], grad_fn=<SoftplusBackward>)
+Variances (lengthscales): 
+tensor([[[0.0392]]], grad_fn=<SoftplusBackward>)
+Weights: 
+tensor([2.8194], grad_fn=<SoftplusBackward>)
